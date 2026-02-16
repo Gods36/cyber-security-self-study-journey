@@ -10,19 +10,19 @@ Evaluation of cybersecurity means assessing how effective security measures are 
 - Reviewing security policies and controls.
 
 ## Domains of Cybersecurity:
-Domain of cybersecurity are the main areas where security measures are applied.
+Domains of cybersecurity are the main areas where security measures are applied.
 
 ## Major Domains of Cybersecurity:
 - Network Security: Protects networks from unauthorized access and attacks.
-Example: Firewalls, intrusion detection systems.
+(E.g): Firewalls, intrusion detection systems.
 - Application Security: Protects software and applications from threats.
-Example: Secure coding, App update.
+(E.g): Secure coding, App updates.
 - Information Security: Protects data from unauthorized access, alteration, or loss.
-Example: Encryption, access control.
+(E.g): Encryption, access control.
 - Cloud Security: Protects data and services stored online.
-Example: Securing Google Drive, Cloud servers.
+(E.g): Securing Google Drive, Cloud servers.
 - Operational Security: Focuses on processes and rules for handling and protecting data.
-Example: User permissions and security policies.
+(E.g): User permissions and security policies.
 - Endpoint Security: Protects devices like phone, laptops, and tablets. 
 
 ## Personal Reflection
