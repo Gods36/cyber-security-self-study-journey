@@ -8,7 +8,7 @@ Cybersecurity is the practice of protecting devices, networks, and data from cyb
 - Prevents financial loss: Cybersecurity helps stops online fraud, scams, and theft of money from bank accounts.
 - Ensure privacy: Cybersecurity helps keep personal and confidential data from being leaked or misused.
 - Supports businesses and governments: Cybersecurity helps businesses and governments by protecting their sensitive data and keeping their services running smoothly.
-- Protects systems: Cybersecurity protects systems from cyber threats that can cause harm.
+- Protects systems: Cybersecurity protects systems from cyber threats that can cause harm. (e.g) malware, ransonware, phishing, etc.
 - Builds trust in technology: Cybersecurity helps keep technology secure, and this makes people feel safe using it.
 
 ## Personal Reflection
