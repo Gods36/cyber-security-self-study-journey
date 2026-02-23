@@ -1,7 +1,7 @@
 # What is Cybersecurity?
 
 ## Definition
-Cybersecurity is the practice of protecting systems, networks, and data from cyber threats, unauthorized access, damage, or theft.
+Cybersecurity is the practice of protecting devices, networks, and data from cyber threats, unauthorized access, damage, or theft.
 
 ## Importance of Cybersecurity
 - Protects personal information: Cybersecurity helps protect personal informations like, passwords, bank details, private messages. It help protect them from hackers.
