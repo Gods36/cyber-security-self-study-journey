@@ -5,7 +5,7 @@
 **Ethics in cybersecurity** refers to following moral principles and professional standards when protecting, testing, or analyzing systems.
 
 > In simple terms:  
-> Doing the right thing with your skills — even when you have the ability to misuse them.
+> Doing the right thing with your skills, even when you have the ability to misuse them.
 
 ---
 
@@ -26,7 +26,7 @@ Without ethical standards, these abilities can cause serious harm.
 
 ### 1️⃣ Authorization (Permission First)
 - Never test or access a system without **explicit written permission**.
-- Unauthorized testing is illegal — even if your intention is "just testing".
+- Unauthorized testing is illegal, even if your intention is "just testing".
 
 ---
 
@@ -99,4 +99,4 @@ One illegal action can permanently damage your career before it begins.
 
 Build skills.  
 Follow the law.  
-Protect — don’t exploit.
+Protect, don’t exploit.
